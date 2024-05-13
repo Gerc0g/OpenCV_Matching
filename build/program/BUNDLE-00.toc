@@ -1,0 +1,3 @@
+([('program',
+   '/Users/egorlogutov/Desktop/MVP_Knife/dist/program',
+   'EXECUTABLE')],)
